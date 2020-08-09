@@ -1,0 +1,60 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Untitled-1 copy.png" transparentColor="">
+ <animation title="dig_r" delay="150">
+  <cut w="7" x="709" y="183" h="13" row="1" col="1"/>
+  <cut w="9" x="724" y="183" h="13" row="1" col="1"/>
+  <cut w="9" x="744" y="183" h="13" row="1" col="1"/>
+  <cut w="7" x="590" y="185" h="11" row="1" col="1"/>
+  <cut w="8" x="531" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="551" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="571" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="610" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="670" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="689" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="630" y="187" h="9" row="1" col="1"/>
+  <cut w="7" x="650" y="187" h="9" row="1" col="1"/>
+ </animation>
+ <animation title="dig_l" delay="150">
+  <cut w="9" x="134" y="183" h="13" row="1" col="1"/>
+  <cut w="9" x="154" y="183" h="13" row="1" col="1"/>
+  <cut w="7" x="171" y="183" h="13" row="1" col="1"/>
+  <cut w="7" x="290" y="185" h="11" row="1" col="1"/>
+  <cut w="8" x="190" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="210" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="270" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="308" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="328" y="186" h="10" row="1" col="1"/>
+  <cut w="8" x="348" y="186" h="10" row="1" col="1"/>
+  <cut w="7" x="230" y="187" h="9" row="1" col="1"/>
+  <cut w="7" x="250" y="187" h="9" row="1" col="1"/>
+ </animation>
+ <animation title="climb_r" delay="150">
+  <cut w="7" x="506" y="84" h="11" row="1" col="1"/>
+  <cut w="5" x="628" y="84" h="8" row="1" col="1"/>
+  <cut w="6" x="467" y="85" h="10" row="1" col="1"/>
+  <cut w="6" x="487" y="85" h="10" row="1" col="1"/>
+  <cut w="8" x="525" y="85" h="10" row="1" col="1"/>
+  <cut w="6" x="607" y="85" h="9" row="1" col="1"/>
+  <cut w="6" x="447" y="86" h="9" row="1" col="1"/>
+  <cut w="9" x="544" y="86" h="9" row="1" col="1"/>
+  <cut w="8" x="565" y="87" h="8" row="1" col="1"/>
+  <cut w="7" x="586" y="87" h="8" row="1" col="1"/>
+ </animation>
+ <animation title="climb_l" delay="150">
+  <cut w="7" x="374" y="84" h="11" row="1" col="1"/>
+  <cut w="8" x="354" y="85" h="10" row="1" col="1"/>
+  <cut w="6" x="394" y="85" h="10" row="1" col="1"/>
+  <cut w="6" x="414" y="85" h="10" row="1" col="1"/>
+  <cut w="9" x="334" y="86" h="9" row="1" col="1"/>
+  <cut w="6" x="434" y="86" h="9" row="1" col="1"/>
+  <cut w="7" x="294" y="87" h="8" row="1" col="1"/>
+  <cut w="8" x="314" y="87" h="8" row="1" col="1"/>
+ </animation>
+ <animation title="parachute" delay="150">
+  <cut w="9" x="607" y="43" h="16" row="1" col="1"/>
+  <cut w="9" x="627" y="43" h="15" row="1" col="1"/>
+  <cut w="9" x="647" y="43" h="15" row="1" col="1"/>
+  <cut w="9" x="667" y="43" h="14" row="1" col="1"/>
+  <cut w="9" x="588" y="44" h="14" row="1" col="1"/>
+ </animation>
+</sprites>

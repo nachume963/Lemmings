@@ -1,0 +1,9 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="level2.png" transparentColor="">
+ <animation title="water" delay="150">
+  <cut w="62.5" x="18.5" y="0" h="166" row="1" col="1"/>
+  <cut w="63" x="114" y="0" h="166" row="1" col="1"/>
+  <cut w="62.5" x="210.5" y="1" h="166" row="1" col="1"/>
+  <cut w="63.25" x="306.75" y="0.5" h="166.5" row="1" col="1"/>
+ </animation>
+</sprites>

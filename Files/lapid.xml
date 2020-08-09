@@ -1,0 +1,9 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="level3.png" transparentColor="0">
+ <animation title="lapid" delay="150">
+  <cut w="29" x="129" y="139" h="85" row="1" col="1"/>
+  <cut w="29" x="161" y="139" h="85" row="1" col="1"/>
+  <cut w="29" x="193" y="139" h="85" row="1" col="1"/>
+  <cut w="29" x="225" y="139" h="85" row="1" col="1"/>
+ </animation>
+</sprites>
