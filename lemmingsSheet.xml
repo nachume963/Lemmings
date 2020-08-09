@@ -1,0 +1,32 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="1lemmings.png" transparentColor="">
+ <animation title="walk_r" delay="150">
+  <cut w="5" x="107" y="0" h="10" row="1" col="1"/>
+  <cut w="6" x="46" y="1" h="9" row="1" col="1"/>
+  <cut w="5" x="66" y="1" h="9" row="1" col="1"/>
+  <cut w="4" x="87" y="1" h="9" row="1" col="1"/>
+  <cut w="6" x="126" y="1" h="9" row="1" col="1"/>
+  <cut w="5" x="146" y="1" h="9" row="1" col="1"/>
+ </animation>
+ <animation title="walk_l" delay="150">
+  <cut w="6" x="46" y="1" h="9" row="1" col="1"/>
+  <cut w="5" x="66" y="1" h="9" row="1" col="1"/>
+  <cut w="4" x="87" y="1" h="9" row="1" col="1"/>
+  <cut w="5" x="107" y="1" h="9" row="1" col="1"/>
+  <cut w="6" x="126" y="1" h="9" row="1" col="1"/>
+  <cut w="5" x="146" y="1" h="9" row="1" col="1"/>
+ </animation>
+ <animation title="fall" delay="150">
+  <cut w="6" x="5" y="40" h="9" row="1" col="1"/>
+  <cut w="6" x="25" y="40" h="9" row="1" col="1"/>
+  <cut w="6" x="45" y="40" h="10" row="1" col="1"/>
+  <cut w="6" x="65" y="40" h="9" row="1" col="1"/>
+ </animation>
+ <animation title="parachute" delay="150">
+  <cut w="9" x="163" y="40" h="16" row="1" col="1"/>
+  <cut w="9" x="183" y="40" h="15" row="1" col="1"/>
+  <cut w="9" x="203" y="40" h="15" row="1" col="1"/>
+  <cut w="9" x="223" y="40" h="14" row="1" col="1"/>
+  <cut w="9" x="144" y="41" h="14" row="1" col="1"/>
+ </animation>
+</sprites>
